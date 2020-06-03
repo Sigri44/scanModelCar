@@ -43,4 +43,4 @@ Quand le script se lance, on a directement une invite à la saisie pour la plaqu
 ![](https://zupimages.net/up/19/22/vkgz.png) ![](https://zupimages.net/up/19/22/shbe.png)
 
 ## Source
-![T0MuX](https://git.mux.re/T0MuX/scripts/src/branch/master/plaque)
+[T0MuX](https://git.mux.re/T0MuX/scripts/src/branch/master/plaque)
