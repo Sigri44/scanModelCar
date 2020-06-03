@@ -41,3 +41,6 @@ Quand le script se lance, on a directement une invite à la saisie pour la plaqu
 
 ### Termux (Android)
 ![](https://zupimages.net/up/19/22/vkgz.png) ![](https://zupimages.net/up/19/22/shbe.png)
+
+## Source
+https://git.mux.re/T0MuX/scripts
